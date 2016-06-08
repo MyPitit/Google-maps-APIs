@@ -43,4 +43,4 @@ Once you did that follow the instructions and you will see something like this:
 ![id](https://cloud.githubusercontent.com/assets/2573931/15868540/3339be94-2ce0-11e6-9a7a-d6ad32ecc1ee.png)
 
 
-**Remeber to keep in a save place your key and never share it to anyone**
+**Remember to keep in a save place your key and never share it to anyone**
