@@ -9,8 +9,6 @@ Here we are going to learn:
 For this tutorial I will be using the same code from the tutorial [Adding Google maps](https://github.com/MyPitit/Google-maps-APIs/tree/master/AddingGMapTutorial) as a kick start. 
 
 
-
-
 ## Further learning
 + [Importing Data](https://developers.google.com/maps/documentation/javascript/tutorials/importing_data)
 + [The GeoJSON Format Specification](http://geojson.org/geojson-spec.html)
