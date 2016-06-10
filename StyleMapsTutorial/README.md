@@ -6,6 +6,8 @@ In this tutorial you are going to learn how to customize the design of your map.
 
 Assuming that yu alredy have the ```HTML```, ```CSS``` and the ```initMap``` function alredy set up
 
+This a very cool tool you can use to style your map [Styled Maps Wizard](http://googlemaps.github.io/js-samples/styledmaps/wizard/index.html).
+
 
 
 ## Further learning
